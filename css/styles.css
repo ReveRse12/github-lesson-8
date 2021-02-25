@@ -1,4 +1,17 @@
 .logo{
-	margin-left: 50px;
-	margin-top: 40px;
+	margin-left: 50px;	
 }
+.flex{
+	display: flex;
+	list-style-type: none;
+}
+ul,li,a{
+	margin-right: 90px;
+	text-decoration: none;
+	color: #7F7F7F;
+	font-size: 18px;
+}
+header{
+	margin-top: 50px;
+}
+.nav2{}
