@@ -4,14 +4,45 @@
 .flex{
 	display: flex;
 	list-style-type: none;
+	width: 850px;
+	
 }
 ul,li,a{
 	margin-right: 90px;
 	text-decoration: none;
 	color: #7F7F7F;
-	font-size: 18px;
+	font-size: 18px; 
 }
 header{
 	margin-top: 50px;
 }
-.nav2{}
+
+
+.search{
+	
+	margin-right: 21px;
+}
+.flex2{
+	display: flex;
+	margin-top: 21px;
+}
+.background{
+	width: 100%;
+	display: inline-block;
+	position: absolute;
+
+}
+h1{
+	position: absolute;
+	color: red;
+	margin-left: 600px;
+	margin-top: 900px;
+}
+.back{
+	background-color: white;
+	height: 180px;
+	width: 690px;
+	display:flex; 
+	justify-content:center; 
+	align-items:center;
+}

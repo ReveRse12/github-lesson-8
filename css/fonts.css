@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url(../fonts/'BrandonGrotesque-RegularItalic.eot');
+    src: local(../fonts/'Brandon Grotesque Regular Italic'), local('BrandonGrotesque-RegularItalic'),
+        url(../fonts/'BrandonGrotesque-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url(../fonts/'BrandonGrotesque-RegularItalic.woff2') format('woff2'),
+        url(../fonts/'BrandonGrotesque-RegularItalic.woff') format('woff'),
+        url(../fonts/'BrandonGrotesque-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
